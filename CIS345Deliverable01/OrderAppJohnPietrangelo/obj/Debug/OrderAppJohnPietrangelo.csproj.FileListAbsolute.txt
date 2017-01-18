@@ -1,0 +1,21 @@
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.exe.config
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.exe
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.pdb
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.OrederAppGUIForm.resources
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.Properties.Resources.resources
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.csproj.GenerateResource.Cache
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.exe
+c:\users\john pietrangelo\documents\visual studio 2015\Projects\OrderAppJohnPietrangelo\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.exe.config
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.pdb
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.csprojResolveAssemblyReference.cache
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.OrederAppGUIForm.resources
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.Properties.Resources.resources
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverables\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.csproj.GenerateResource.Cache
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverable01\OrderAppJohnPietrangelo\bin\Debug\OrderAppJohnPietrangelo.exe.config
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverable01\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.exe
+C:\Users\John Pietrangelo\Desktop\CIS345Deliverable01\OrderAppJohnPietrangelo\obj\Debug\OrderAppJohnPietrangelo.pdb
